@@ -20,6 +20,11 @@
     "phpunit/phpunit": "^6.5.4",
     "mnapoli/simplex": "^0.4"
   },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  },
   "minimum-stability": "dev",
   "prefer-stable": true
 }
