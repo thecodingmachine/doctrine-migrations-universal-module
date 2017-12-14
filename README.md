@@ -1,6 +1,7 @@
-[![Latest Stable Version](https://poser.pugx.org/yourvendorname/yourpackagename/v/stable)](https://packagist.org/packages/yourvendorname/yourpackagename)
-[![Latest Unstable Version](https://poser.pugx.org/yourvendorname/yourpackagename/v/unstable)](https://packagist.org/packages/yourvendorname/yourpackagename)
-[![License](https://poser.pugx.org/yourvendorname/yourpackagename/license)](https://packagist.org/packages/yourvendorname/yourpackagename)
+[![Latest Stable Version](https://poser.pugx.org/thecodingmachine/doctrine-migrations-universal-module/v/stable)](https://packagist.org/packages/thecodingmachine/doctrine-migrations-universal-module)
+[![Latest Unstable Version](https://poser.pugx.org/thecodingmachine/doctrine-migrations-universal-module/v/unstable)](https://packagist.org/packages/thecodingmachine/doctrine-migrations-universal-module)
+[![License](https://poser.pugx.org/thecodingmachine/doctrine-migrations-universal-module/license)](https://packagist.org/packages/thecodingmachine/doctrine-migrations-universal-module)
+[![Build Status](https://travis-ci.org/thecodingmachine/doctrine-migrations-universal-module.svg?branch=master)](https://travis-ci.org/thecodingmachine/doctrine-migrations-universal-module)
 
 # Doctrine Migrations universal module
 
