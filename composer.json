@@ -1,0 +1,25 @@
+{
+  "name": "thecodingmachine/doctrine-migrations-universal-module",
+  "description": "Cross-framework module for doctrine migrations",
+  "license": "MIT",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "TheCodingMachine\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.1",
+    "thecodingmachine/funky": "^1",
+    "doctrine/migrations": "^1.6",
+    "thecodingmachine/symfony-console-universal-module": "^0.4",
+    "thecodingmachine/dbal-universal-module": "^0.4.2",
+    "mouf/classname-mapper": "^1.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.5.4",
+    "mnapoli/simplex": "^0.4"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
